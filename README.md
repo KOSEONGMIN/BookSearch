@@ -4,12 +4,17 @@
 도서검색대 프로그램
 
 
+
+
 <br><br>
 [ 설명 ]
 
 
 - java로 구현한 GUI 도서검색대 프로그램 (만화카페에서 사용하기 위해 제작)
 
+
+<br><br>
+[ 사진 ]
 
 <img width="960" alt="1" src="https://github.com/KOSEONGMIN/BookSearch/assets/48641340/666de8d4-70c3-468d-b8be-d20afac51042">
 
